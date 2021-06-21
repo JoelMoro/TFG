@@ -1,0 +1,2 @@
+TermID, Name, Frequency, PlotX, PlotY, PlotSize, Value, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0016126", "sterol biosynthetic process", 0.082, 0.999, 0.438, 4.264, -6.192, 1.000, 0.000, -1, False

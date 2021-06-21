@@ -1,0 +1,4 @@
+TermID, Name, Frequency, PlotX, PlotY, PlotSize, Value, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0000786", "nucleosome", 0.200, 4.355, 2.872, 4.574, -19.605, 0.833, 0.000, -1, False
+"GO:0005576", "extracellular region", 2.565, -5.220, -0.015, 5.682, -6.222, 1.000, 0.000, -1, False
+"GO:0005741", "mitochondrial outer membrane", 0.182, 4.371, -2.847, 4.533, -12.466, 0.833, 0.175, -1, False

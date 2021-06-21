@@ -1,0 +1,3 @@
+TermID, Name, Frequency, PlotX, PlotY, PlotSize, Value, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0034477", "U6 snRNA 3'-end processing", 0.006, 0.300, 1.000, 3.123, -6.698, 0.491, 0.000, -1, False
+"GO:0006412", "translation", 5.459, 0.945, 0.300, 6.089, -9.780, 0.491, 0.300, -1, False

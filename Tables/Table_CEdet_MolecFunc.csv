@@ -1,0 +1,5 @@
+TermID, Name, Frequency, PlotX, PlotY, PlotSize, Value, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0004190", "aspartic-type endopeptidase activity", 0.271, 5.364, -2.513, 4.870, -9.029, 0.879, 0.000, -1, False
+"GO:0008198", "ferrous iron binding", 0.051, -3.407, -4.834, 4.146, -6.767, 0.963, 0.000, -1, False
+"GO:0003677", "DNA binding", 11.650, -3.111, 4.715, 6.502, -22.007, 0.963, 0.057, -1, False
+"GO:0004523", "RNA-DNA hybrid ribonuclease activity", 0.188, 5.499, 1.855, 4.710, -5.310, 0.879, 0.187, -1, False

@@ -1,0 +1,14 @@
+TermID, Name, Frequency, PlotX, PlotY, PlotSize, Value, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0005840", "ribosome", 3.958, 3.192, 3.289, 5.870, -52.707, 0.489, 0.000, -1, False
+"GO:0009986", "cell surface", 0.246, -2.794, -4.716, 4.663, -7.396, 1.000, 0.000, -1, False
+"GO:0000275", "mitochondrial proton-transporting ATP synthase complex, catalytic sector F(1)", 0.014, -2.099, 5.354, 3.404, -5.575, 0.652, 0.180, -1, False
+"GO:0031514", "motile cilium", 0.096, 7.088, 2.991, 4.257, -8.254, 0.788, 0.205, -1, False
+"GO:0071203", "WASH complex", 0.015, -5.074, 3.336, 3.438, -4.046, 0.747, 0.211, -1, False
+"GO:0005737", "cytoplasm", 24.636, 2.853, -1.610, 6.664, -5.273, 0.740, 0.247, -1, False
+"GO:0042729", "DASH complex", 0.032, 0.264, 4.523, 3.773, -7.518, 0.545, 0.398, -1, False
+"GO:0030131", "clathrin adaptor complex", 0.067, -4.016, 5.482, 4.096, -3.258, 0.699, 0.404, -1, False
+"GO:0005634", "nucleus", 11.161, 3.106, 1.710, 6.320, -5.407, 0.588, 0.404, -1, False
+"GO:0030286", "dynein complex", 0.116, 1.252, 5.432, 4.339, -14.419, 0.508, 0.450, -1, False
+"GO:0000786", "nucleosome", 0.200, 0.501, 3.771, 4.574, -3.034, 0.503, 0.556, -1, False
+"GO:0005694", "chromosome", 1.767, 3.613, 3.821, 5.520, -4.673, 0.519, 0.618, -1, False
+"GO:0072686", "mitotic spindle", 0.070, 3.666, 5.799, 4.118, -7.518, 0.576, 0.648, -1, False

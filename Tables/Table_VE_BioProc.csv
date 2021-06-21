@@ -1,0 +1,30 @@
+TermID, Name, Frequency, PlotX, PlotY, PlotSize, Value, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0006396", "RNA processing", 3.773, 6.508, 1.033, 5.929, -14.194, 0.543, 0.000, -1, False
+"GO:0045765", "regulation of angiogenesis", 0.057, -4.610, 3.135, 4.110, -4.911, 1.000, 0.000, -1, False
+"GO:0007018", "microtubule-based movement", 0.340, -4.446, -2.065, 4.883, -8.542, 0.988, 0.008, -1, False
+"GO:0000278", "mitotic cell cycle", 0.396, -0.738, -6.484, 4.950, -4.036, 0.988, 0.008, -1, False
+"GO:0007017", "microtubule-based process", 0.697, -4.888, 0.549, 5.195, -4.900, 0.987, 0.008, -1, False
+"GO:0006457", "protein folding", 0.895, -3.053, -4.524, 5.304, -7.885, 0.987, 0.008, -1, False
+"GO:0006886", "intracellular protein transport", 1.368, -0.135, 7.303, 5.488, -11.442, 0.870, 0.009, -1, False
+"GO:0006606", "protein import into nucleus", 0.099, null, null, 4.346, -3.506, 0.887, 0.713, 6886, True
+"GO:0042254", "ribosome biogenesis", 1.641, 3.969, -6.209, 5.567, -9.403, 0.844, 0.009, -1, False
+"GO:0006364", "rRNA processing", 1.093, null, null, 5.391, -4.532, 0.479, 0.907, 42254, True
+"GO:0006078", "(1->6)-beta-D-glucan biosynthetic process", 0.015, 5.612, 6.144, 3.532, -4.403, 0.790, 0.113, -1, False
+"GO:0000413", "protein peptidyl-prolyl isomerization", 0.441, 1.920, 0.057, 4.996, -7.743, 0.786, 0.156, -1, False
+"GO:0018342", "protein prenylation", 0.038, 0.680, -1.372, 3.931, -3.334, 0.822, 0.255, -1, False
+"GO:0007034", "vacuolar transport", 0.153, -1.752, 6.231, 4.536, -3.293, 0.923, 0.260, -1, False
+"GO:0016192", "vesicle-mediated transport", 1.336, -0.886, 6.924, 5.478, -7.690, 0.910, 0.325, -1, False
+"GO:0006270", "DNA replication initiation", 0.126, 6.806, 2.856, 4.451, -11.134, 0.675, 0.340, -1, False
+"GO:0016559", "peroxisome fission", 0.023, 4.772, -6.228, 3.721, -3.912, 0.892, 0.351, -1, False
+"GO:0034477", "U6 snRNA 3'-end processing", 0.006, 8.271, 0.610, 3.123, -6.204, 0.686, 0.355, -1, False
+"GO:0015986", "ATP synthesis coupled proton transport", 0.445, 3.481, 3.930, 5.000, -5.688, 0.614, 0.422, -1, False
+"GO:0006415", "translational termination", 0.190, 5.009, -0.827, 4.630, -9.292, 0.591, 0.422, -1, False
+"GO:0006265", "DNA topological change", 0.260, 5.964, -1.916, 4.768, -7.087, 0.637, 0.436, -1, False
+"GO:0006413", "translational initiation", 0.525, 5.153, 2.453, 5.072, -3.859, 0.621, 0.477, -1, False
+"GO:0001522", "pseudouridine synthesis", 0.355, 6.208, 0.177, 4.903, -4.165, 0.641, 0.518, -1, False
+"GO:0006397", "mRNA processing", 0.853, 7.191, 0.810, 5.283, -6.527, 0.582, 0.574, -1, False
+"GO:0006418", "tRNA aminoacylation for protein translation", 1.062, 5.515, 1.427, 5.378, -12.958, 0.494, 0.590, -1, False
+"GO:0006412", "translation", 5.459, null, null, 6.089, -54.594, 0.539, 0.732, 6418, True
+"GO:0043039", "tRNA aminoacylation", 1.089, null, null, 5.389, -4.528, 0.577, 0.986, 6418, True
+"GO:0006351", "transcription, DNA-templated", 2.021, 6.077, 1.970, 5.658, -13.215, 0.519, 0.643, -1, False
+"GO:0006352", "DNA-templated transcription, initiation", 0.861, null, null, 5.287, -3.514, 0.550, 0.880, 6351, True

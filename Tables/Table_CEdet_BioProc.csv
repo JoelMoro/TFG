@@ -1,0 +1,4 @@
+TermID, Name, Frequency, PlotX, PlotY, PlotSize, Value, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0006334", "nucleosome assembly", 0.089, 2.721, -5.092, 4.304, -5.616, 0.986, 0.000, -1, False
+"GO:0015074", "DNA integration", 0.825, -5.770, 0.190, 5.269, -3.177, 0.916, 0.006, -1, False
+"GO:0006725", "cellular aromatic compound metabolic process", 22.223, 3.049, 4.903, 6.699, -5.616, 0.914, 0.080, -1, False

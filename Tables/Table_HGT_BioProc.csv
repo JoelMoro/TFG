@@ -1,0 +1,4 @@
+TermID, Name, Frequency, PlotX, PlotY, PlotSize, Value, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0006351", "transcription, DNA-templated", 2.021, -0.511, 4.135, 5.658, -7.806, 0.279, 0.000, -1, False
+"GO:0016126", "sterol biosynthetic process", 0.082, 2.204, 4.143, 4.264, -3.046, 0.494, 0.377, -1, False
+"GO:0006412", "translation", 5.459, -2.339, 4.133, 6.089, -6.816, 0.370, 0.566, -1, False

@@ -1,0 +1,27 @@
+TermID, Name, Frequency, PlotX, PlotY, PlotSize, Value, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0003735", "structural constituent of ribosome", 2.424, -2.204, -6.746, 5.821, -52.796, 1.000, 0.000, -1, False
+"GO:0003899", "DNA-directed 5'-3' RNA polymerase activity", 0.408, -4.776, 3.162, 5.046, -13.436, 0.727, 0.000, -1, False
+"GO:0035091", "phosphatidylinositol binding", 0.196, 0.131, -6.655, 4.728, -57.799, 0.952, 0.000, -1, False
+"GO:0003777", "microtubule motor activity", 0.183, -5.150, -4.455, 4.698, -10.149, 0.915, 0.024, -1, False
+"GO:0009982", "pseudouridine synthase activity", 0.263, 5.000, -3.860, 4.856, -3.705, 0.933, 0.024, -1, False
+"GO:0005516", "calmodulin binding", 0.122, 2.642, -6.242, 4.523, -7.713, 0.954, 0.043, -1, False
+"GO:0030145", "manganese ion binding", 0.260, 6.535, 0.009, 4.852, -4.581, 0.921, 0.045, -1, False
+"GO:0051536", "iron-sulfur cluster binding", 2.355, 1.261, -3.493, 5.808, -4.398, 0.938, 0.057, -1, False
+"GO:0005525", "GTP binding", 1.813, 5.227, 3.481, 5.694, -4.483, 0.873, 0.141, -1, False
+"GO:0003723", "RNA binding", 5.619, 2.410, 4.345, 6.186, -27.605, 0.841, 0.165, -1, False
+"GO:0016409", "palmitoyltransferase activity", 0.078, -2.244, 7.144, 4.326, -5.111, 0.926, 0.187, -1, False
+"GO:0004177", "aminopeptidase activity", 0.410, -4.327, -2.137, 5.049, -5.119, 0.860, 0.193, -1, False
+"GO:0003676", "nucleic acid binding", 19.335, 3.969, 4.500, 6.722, -4.670, 0.869, 0.251, -1, False
+"GO:0016746", "transferase activity, transferring acyl groups", 3.121, -3.377, 6.429, 5.930, -5.761, 0.905, 0.264, -1, False
+"GO:0051287", "NAD binding", 0.913, 3.615, 6.419, 5.397, -3.406, 0.898, 0.298, -1, False
+"GO:0003747", "translation release factor activity", 0.121, -1.090, 1.706, 4.519, -6.623, 0.768, 0.312, -1, False
+"GO:0003743", "translation initiation factor activity", 0.394, null, null, 5.031, -3.233, 0.748, 0.773, 3747, True
+"GO:0004527", "exonuclease activity", 0.722, -5.394, -1.072, 5.295, -4.525, 0.838, 0.324, -1, False
+"GO:0016307", "phosphatidylinositol phosphate kinase activity", 0.034, -4.728, 5.347, 3.964, -3.831, 0.880, 0.334, -1, False
+"GO:0046872", "metal ion binding", 17.536, 5.916, 1.317, 6.680, -35.474, 0.884, 0.371, -1, False
+"GO:0046933", "proton-transporting ATP synthase activity, rotational mechanism", 0.318, -5.768, 1.874, 4.939, -5.575, 0.792, 0.444, -1, False
+"GO:0004386", "helicase activity", 1.321, -5.526, -4.025, 5.557, -3.062, 0.905, 0.483, -1, False
+"GO:0003677", "DNA binding", 11.650, 2.835, 3.768, 6.502, -8.087, 0.828, 0.527, -1, False
+"GO:0003916", "DNA topoisomerase activity", 0.203, 5.245, -3.593, 4.744, -3.235, 0.933, 0.585, -1, False
+"GO:0004812", "aminoacyl-tRNA ligase activity", 0.929, -6.829, 2.316, 5.404, -12.060, 0.834, 0.640, -1, False
+"GO:0008173", "RNA methyltransferase activity", 0.614, -4.877, 2.486, 5.224, -6.443, 0.757, 0.667, -1, False

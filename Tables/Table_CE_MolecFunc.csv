@@ -1,0 +1,6 @@
+TermID, Name, Frequency, PlotX, PlotY, PlotSize, Value, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0003713", "transcription coactivator activity", 0.079, 5.082, -0.032, 4.334, -6.058, 1.000, 0.000, -1, False
+"GO:0004601", "peroxidase activity", 0.443, 0.549, -6.386, 5.083, -8.789, 1.000, 0.000, -1, False
+"GO:0008198", "ferrous iron binding", 0.051, 0.475, 6.267, 4.146, -8.512, 0.956, 0.000, -1, False
+"GO:0000340", "RNA 7-methylguanosine cap binding", 0.009, -6.110, -1.569, 3.368, -3.617, 0.873, 0.033, -1, False
+"GO:0003677", "DNA binding", 11.650, -6.127, 1.374, 6.502, -4.366, 0.862, 0.230, -1, False
